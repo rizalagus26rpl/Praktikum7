@@ -15,7 +15,7 @@ Kategori
 ![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/kategori.png?raw=true)
 Barang
 ![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/barang.png?raw=true)
-Daftar Pembeli
-![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/daftarpembeli.png?raw=true)
-Data Pembeli
-![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/datapembeli.png?raw=true)
+Daftar Pelanggan
+![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/daftarpelanggan.png?raw=true)
+Data Pelanggan
+![alt text](https://github.com/rizalagus26rpl/Praktikum7/blob/master/Praktikum7/datapelanggan.png?raw=true)
